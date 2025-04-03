@@ -2,7 +2,7 @@
 
 2d gravity simulator I wrote around 9/2022 after I read the [Three Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel))
 
-Customizable planets, weights, size, velocity ... 
+Customizable planets, weights, size, velocity, tails, tail lengths, ...
 
 Default is three randomly generated bodies.
 
